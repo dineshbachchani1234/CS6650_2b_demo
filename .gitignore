@@ -5,3 +5,6 @@
 .env
 *.DS_Store
 src/server
+
+__pycache__/
+*.pycgit add .
